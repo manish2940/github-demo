@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: rgb(147, 135, 222);
+    border: solid;
+    border-color: black;
+    border: width 2px;;
+}
+p{
+    font-size: x-large;
+    font-style: italic;
+}
